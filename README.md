@@ -1,0 +1,2 @@
+# Capstone_Project
+Sigma cab private limited – a cab aggregator service. Their customers can download their app on smartphones and book a cab from anywhere in their cities they operate in. They in turn search for cabs from various service providers and provide the best option to their client across various options. They have been in operation in little less than a year now. During this period they have captured surge pricing type from the service providers.
